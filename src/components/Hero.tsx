@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { Sparkles, Star, Heart, WhatsApp } from 'lucide-react';
+import { Sparkles, Star, Heart, MessageCircle } from 'lucide-react';
 
 const Hero = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -74,7 +74,7 @@ const Hero = () => {
                 onClick={() => window.open('https://wa.me/1234567890', '_blank')}
                 className="bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white font-inter font-semibold px-8 py-4 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
               >
-                <WhatsApp className="w-5 h-5 mr-3" />
+                <MessageCircle className="w-5 h-5 mr-3" />
                 Reservar Cita
               </Button>
               
