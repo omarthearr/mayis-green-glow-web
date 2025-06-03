@@ -94,7 +94,7 @@ const Hero = () => {
               {/* Main Image Container */}
               <div className="relative w-full h-96 lg:h-[500px] rounded-3xl overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <img
-                  src="https://images.unsplash.com/photo-1560869713-7d0ad92c2f73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                  src="https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/500068239_1334211642041465_290289362677499474_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=6IWz1Mw2C4gQ7kNvwFMu1cG&_nc_oc=AdnwnrdaKkkxhAI0rkRDChZeOI9S8rWs4Zh0e4z_Zun1e0f0VVvCFok5Y3xTlIP_C3JbD8XYvbTgr9jHwba2DhPJ&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=SfzVejoaq7vphwa_BG1n7w&oh=00_AfL_uRmjDJ0-6IxdVi9SMaz7snVUHe7zQVGjKiWY_xBWMg&oe=684467F0"
                   alt="Servicios de belleza profesional"
                   className="w-full h-full object-cover"
                 />
